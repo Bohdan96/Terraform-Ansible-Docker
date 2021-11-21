@@ -13,7 +13,7 @@ To run this project you needs:
 
 # terraform apply
 
-After all , you get 2 ip's:
+After all actions, you get 2 ip's:
 
 ![2021-11-21_18-31](https://user-images.githubusercontent.com/64528224/142770599-b625038a-a2dd-4349-af70-14fa3a4e47a6.png)
 
