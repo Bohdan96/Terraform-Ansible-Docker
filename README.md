@@ -1,5 +1,4 @@
-# Terraform-Ansible-Docker
-Via terrraform run ansible that up docker with nginx image
+Via terrraform setup 2 servers on AWS, run ansible that up docker with nginx image.
 
 To run this project you needs:
  
