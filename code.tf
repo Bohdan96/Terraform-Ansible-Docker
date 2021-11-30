@@ -1,7 +1,7 @@
 locals {
   ssh_user          = "ubuntu"
   key_name          = "devops"
-  private_key_path  = "/home/user/Downloads/devops.pem"
+  private_key_path  = "devops.pem"
 }
 
 provider "aws" {
